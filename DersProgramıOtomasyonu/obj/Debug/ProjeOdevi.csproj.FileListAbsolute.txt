@@ -1,0 +1,13 @@
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.frmAnaSayfa.resources
+F:\C# Projeler\Form Uygulamaları\Vize Çalışma\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.frmDiyalog.resources
+C:\Users\Skywolf\Desktop\Ahmet\Ders Notları\2.Sınıf\Nesne Yönelimli Programlama\Proje ÖDEVİ\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Skywolf\Desktop\Ahmet\Ders Notları\2.Sınıf\Nesne Yönelimli Programlama\Proje ÖDEVİ\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Skywolf\Desktop\Ahmet\Ders Notları\2.Sınıf\Nesne Yönelimli Programlama\Proje ÖDEVİ\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
